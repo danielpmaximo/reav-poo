@@ -12,10 +12,10 @@
 ================ Padrões ================	
 
 -Move Accumulation to Collecting Parameter:  
-    Projeto.java: print()  
-    Tecnico.java: print()  
-    Atividade.java: print(), printProfissionais()  
-    Todos os métodos de prints implementados  
+    Projeto.java: print();    
+    Tecnico.java: print();  
+    Atividade.java: print(), printProfissionais();  
+    Todos os métodos de prints implementados;  
 
 -Extract Method:  
     Gerenciador.java: telaRelatorios(), relatorioDeProjetos(), relatorioDeAtividades(), substituirTarefa(Atividade ativ, int index), 
